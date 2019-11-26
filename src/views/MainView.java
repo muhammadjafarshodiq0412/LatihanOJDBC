@@ -12,7 +12,7 @@ import net.sf.jasperreports.engine.design.JasperDesign;
 import tools.Connections;
 
 /**
- *
+ * Git
  * @author ASUS
  */
 public class MainView extends javax.swing.JFrame {
